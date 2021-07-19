@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Santosh (@skumrjb)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Santosh (@skumrjb) and I am an aspiring web-developer.
+-  I am currently doing a #100DaysOfCode challenge focussing in Web Development
+- 📚 I’m currently a student of #CS50 Web programming with Python and JavaScript
+- 💻 I’m learning **HTML**, **CSS**, **Python (Django)**, **JavaScript** and **React**.
+
+## Tools
 
 <!---
 skumrjb/skumrjb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
