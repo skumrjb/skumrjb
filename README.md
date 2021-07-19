@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @skumrjb
+- 👋 Hi, I’m Santosh (@skumrjb)
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skumrjb&layout=compact)
+ 
+ [![Santosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skumrjb)](https://github.com/skumrjb/github-readme-stats)
+
