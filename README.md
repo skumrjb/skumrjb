@@ -14,8 +14,9 @@ You can click the Preview link to take a look at your changes.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=skumrjb&theme=dark" width="48%" >
 
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skumrjb&layout=compact)
+<!-- ### Top Languages
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skumrjb&layout=compact) -->
  
- ![Santosh's wakatime stats]
-   <img src="https://github.com/skumrjb/skumrjb/blob/master/codeStats.svg" alt="Alternative Text"/>
+ ### Wakatime Stats
+ 
+<img src="https://github.com/skumrjb/skumrjb/blob/main/images/stat.svg" alt="My Coding activity"/>
