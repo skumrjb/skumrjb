@@ -17,5 +17,26 @@ You can click the Preview link to take a look at your changes.
 ### Top Languages
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skumrjb&layout=compact)
  
- [![Santosh's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skumrjb)](https://github.com/skumrjb/github-readme-stats)
+ [![Santosh's wakatime stats]
+   <img src="https://github.com/skumrjb/skumrjb/blob/master/images/codeStats.svg" alt="Alternative Text"/>
+
+ name: Update README with my latest coding stats
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: '30 5 * * *' 
+
+jobs:
+  update-Readme:
+    name: Automatically update my README  
+    runs-on: ubuntu-latest
+    steps:
+      - uses: tariksahni/coding-stats-wakatime@v1.0.0
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_MONTHLY: true
+          GITHUB_TOKEN: ${{ github.token }}
+          GITHUB_ACTION: ${{ github.action }}
 
